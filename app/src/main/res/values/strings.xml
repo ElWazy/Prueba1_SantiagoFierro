@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prueba1_SantiagoFierro</string>
+    <string name="logo_de_la_empresa">Logo de la empresa</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingrese_contrase_a">Ingrese Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="calculos_generales">Calculos Generales</string>
+    <string name="copyright_la_diferencia_2021_todos_los_derechos_reservados">Copyright La Diferencia, 2021 Todos los derechos reservados</string>
+    <string name="seleccione_su_cantidad_de_jarrones">Seleccione su cantidad de jarrones</string>
+    <string name="_12_jarrones">12 Jarrones</string>
+    <string name="_24_jarrones">24 Jarrones</string>
+    <string name="calcular">Calcular</string>
+</resources>
